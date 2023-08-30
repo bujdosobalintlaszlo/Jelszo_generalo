@@ -1,0 +1,20 @@
+true, true, true, true - kész - ellenőrizve
+true, true, true, false - kész - ellenőrizve
+true, true, false, true - kész - ellenőrizve
+true, true, false, false - kész - ellenőrizve
+true, false, true, true -kész - ellenőrizve
+true, false, true, false - kész - ellenőrizve
+true, false, false, true - kész - ellenőrizve
+true, false, false, false - kész - ellenőrizve
+false, true, true, true - kész - ellenőrizve
+false, true, true, false - kész - ellenőrizve
+false, true, false, true - kész - ellenőrizve
+false, true, false, false - kész - ellenőrizve
+false, false, true, true - kész - ellenőrizve
+false, false, true, false - kész - ellenőrizve
+false, false, false, true - ellenőrizve
+false, false, false, false - kész - ellenőrizve
+Nagybetű [A-Z]
+Speciális karakterek [?$#_-]
+Számok [0-9]
+Összetéveszthető karkterek elrejtése [0-O,I-l]
