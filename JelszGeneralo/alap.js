@@ -481,12 +481,11 @@ function KartyaGen() {
             //-----------------
             }
             let kartya = document.createElement("div");
-            let h2 = document.createElement("h2");
-            kartya.className="kartya";
-            h2.innerHTML=jelszo;
-            kartya.appendChild(h2);
-            kartyaHely.appendChild(kartya);
-            console.log(kartyaHely);
+            let p = document.createElement("p");
+            p.innerHTML=jelszo;
+            //kartya.className="kartya";
+            kartyaHely.appendChild(p);
+            console.log(jelszo.length);
             console.log(jelszo);
         }
         
